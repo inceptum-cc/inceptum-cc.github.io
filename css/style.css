@@ -1,0 +1,42 @@
+/*
+PROPIOS
+*/
+img.navbar{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border:none;
+	width: 60px;
+}
+p.navbar{
+	text-align: center;
+}
+
+a.hub-color{
+	color: #000;
+}
+
+img.logo{
+	border:none;
+	width: 150px;
+	z-index:900;
+}
+
+a.top-menu{
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: normal;
+	font-family: Aller;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+span.ubuntu-transform{
+	font-family: Ubuntu;
+}
+
+p.footer{
+	margin-bottom: 0px;
+}
