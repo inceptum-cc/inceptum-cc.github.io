@@ -82,12 +82,12 @@ appears on the left side of the page.
 #menu-top{
     height:40px;
     background: #ef9132;
-    overflow-y: auto;
     -webkit-overflow-scrolling: touch;
     position:fixed;
-    width:100%;
-    
-    }
+    width: 100%;
+    right: 0px;
+    top: 0px;
+}
 #menu {
     margin-left: -150px; /* "#menu" width */
     width: 150px;
@@ -97,7 +97,6 @@ appears on the left side of the page.
     bottom: 0;
     z-index: 1000; /* so the menu or its navicon stays above all content */
     background: #191818;
-    overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
     /*
