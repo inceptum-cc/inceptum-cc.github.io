@@ -1,0 +1,50 @@
+html,body {
+	margin: 0px 0px 0px 0px;
+	height: 100%;
+	/*background-color: #0a1c1e;*/
+}
+
+div.foundation {
+	position: relative;
+	background-color: #0a1c1e;
+	float: left;
+	width: 50%;
+	height: 100%;
+}
+div.hub {
+	position: relative;
+	background-color: #fff;
+	float: right;
+	width: 50%;
+	height: 100%;
+}
+
+img.logo {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin: auto;
+	/*padding-bottom: 100px;*/
+}
+
+p.foundation {
+	font-family: "Aller", sans-serif;
+	font-weight: bold;
+	font-size: large;
+	color: #7ccfed;
+	text-align: center;
+	line-height: 80%;
+}
+
+p.hub {
+        font-family: "Aller", sans-serif;
+        font-weight: bold;
+        font-size: large;
+        color: #000;
+        text-align: center;
+        line-height: 80%;
+
+}
+
