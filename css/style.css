@@ -138,3 +138,116 @@ p.footer{
 .pure-menu-heading {
 	color: #000;
 }
+
+/*
+ * FICHAS 
+*/
+.link-ficha {
+	text-decoration: none;
+	color: #333;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+}
+aside.fichah {
+    padding: 0.3em 0.4em;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 5px;
+    color: #333;
+    height: 190px;
+}
+
+aside.fichav {
+    padding: 0.3em 0.4em;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 5px;
+    color: #333;
+    height: 220px;
+}
+
+.ficha-blue {
+    background: rgba(50, 106, 239, 0.3);
+    border-color: #326aef;
+}
+.ficha-green {
+    background: rgba(45, 181, 94, 0.3);
+    border-color: #2db55e;
+}
+.ficha-red {
+    background: rgba(239, 54, 50, 0.3);
+    border-color: #ef3632;
+}
+.ficha-purple {
+    background: rgba(152, 45, 181, 0.3);
+    border-color: #982db5;
+}
+.ficha-orange {
+    background: rgba(239, 145, 50, 0.3);
+    border-color: #ef9132;
+}
+
+p.title-ficha{
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: Aller;
+}
+
+p.desc-fichah{
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+}
+p.desc-fichav{
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+	text-align: center;
+}
+
+img.logo-fichah{
+	float: left;
+	margin-right: 10px;
+}
+img.logo-fichav{
+	float: center;
+}
+
+.counter-orange{
+	background: #ef9132;
+	height: 35px;
+}
+.counter-blue{
+	background: #326aef;
+	height: 35px;
+}
+.counter-green{
+	background: #2db55e;
+	height: 35px;
+}
+.counter-red{
+	background: #ef3632;
+	height: 35px;
+}
+.counter-purple{
+	background: #982db5;
+	height: 35px;
+}
+
+.counter-key{
+	padding: 0.5em;
+	text-align: left;
+	color: #fff;
+	display: block;	
+}
+
+.size-chart{
+	margin-top: 25px;
+	width: 100%;
+}
