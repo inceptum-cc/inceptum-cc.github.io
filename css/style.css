@@ -152,39 +152,50 @@ p.footer{
 }
 aside.fichah {
     padding: 0.3em 0.4em;
-    border-radius: 10px;
     border-style: solid;
     border-width: 5px;
-    color: #333;
     height: 190px;
 }
 
 aside.fichav {
     padding: 0.3em 0.4em;
-    border-radius: 10px;
     border-style: solid;
     border-width: 5px;
-    color: #333;
     height: 260px;
 }
 
-.ficha-blue {
-    background: rgba(50, 106, 239, 0.3);
-    border-color: #326aef;
+.ficha-b{
+	background: rgba(50, 106, 239, 0.3);
+	border-color: background: #326aef;
 }
-.ficha-green {
+	.ficha-bo{
+		background: linear-gradient(to bottom right, rgba(50, 106, 239, 0.3) 0%, rgba(239, 145, 50, 0.3) 100%);
+		border-image: linear-gradient(to bottom right, #326aef 0%, #ef9132 100%);
+		border-image-slice: 1;
+	}
+	.ficha-br{
+		background: linear-gradient(to bottom right, rgba(50, 106, 239, 0.3) 0%, rgba(239, 54, 50, 0.3) 100%);
+		border-image: linear-gradient(to bottom right, #326aef 0%, #ef3632 100%);
+		border-image-slice: 1;
+	}
+.ficha-g {
     background: rgba(45, 181, 94, 0.3);
     border-color: #2db55e;
 }
-.ficha-red {
+.ficha-r {
     background: rgba(239, 54, 50, 0.3);
     border-color: #ef3632;
 }
-.ficha-purple {
+	.ficha-rb{
+		background: linear-gradient(to bottom right, rgba(239, 54, 50, 0.3) 0%, rgba(50, 106, 239, 0.3) 100%);
+		border-image: linear-gradient(to bottom right, #ef3632 0%, #326aef 100%);
+		border-image-slice: 1;
+	}
+.ficha-p {
     background: rgba(152, 45, 181, 0.3);
     border-color: #982db5;
 }
-.ficha-orange {
+.ficha-o {
     background: rgba(239, 145, 50, 0.3);
     border-color: #ef9132;
 }
@@ -224,7 +235,9 @@ img.logo-fichah{
 	margin-right: 10px;
 }
 img.logo-fichav{
-	float: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .counter-orange{
@@ -258,4 +271,27 @@ img.logo-fichav{
 .size-chart{
 	margin-top: 25px;
 	width: 100%;
+}
+
+aside.bolsa {
+    border-style: solid;
+    border-width: 5px;
+    height: 80px;
+}
+p.title-bolsa{
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: Aller;
+	text-align: center;
+	margin: auto;
+}
+
+p.desc-bolsa{
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+	margin: auto;
 }
