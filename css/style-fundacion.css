@@ -100,7 +100,13 @@ p.navbar{
 }
 
 a.hub-color{
-	color: #ffffff;
+	color: #FFF;
+}
+.pure-menu-link:hover{
+	background-color: #7fd0ed;
+}
+.pure-menu-link:focus{
+	background-color: #7fd0ed;
 }
 
 img.logo{
@@ -294,4 +300,14 @@ p.desc-bolsa{
 	font-size: 11px;
 	font-family: Aller;
 	margin: auto;
+}
+.link-net {
+	text-decoration: none;
+	color: #777;
+	font-weight: 600;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 18px;
+	font-family: Aller;
+	
 }
