@@ -276,22 +276,34 @@ img.logo-fichav{
 aside.bolsa {
     border-style: solid;
     border-width: 5px;
-    height: 80px;
+    margin: 10px
 }
 p.title-bolsa{
-	font-style: normal;
-	font-variant: normal;
+	font-weight: 600;
+	font-size: 20px;
+	font-family: Aller;
+	text-align: center;
+	margin: auto;
+	padding-left: 15px;
+}
+p.desc-bolsa{
+	font-size: 12px;
+	font-family: Aller;
+	padding-left: 10px;
+	color: #191818;
+}
+p.field-bolsa{
+	font-weight: 400;
+	font-size: 12px;
+	font-family: Aller;
+	text-align: center;
+	color: #191818;
+
+}
+p.focus-bolsa{
 	font-weight: 600;
 	font-size: 15px;
 	font-family: Aller;
 	text-align: center;
-	margin: auto;
-}
-
-p.desc-bolsa{
-	font-style: normal;
-	font-variant: normal;
-	font-size: 11px;
-	font-family: Aller;
-	margin: auto;
+	color: #191818;
 }
