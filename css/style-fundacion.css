@@ -1,0 +1,297 @@
+/*
+CUSTOM MENU
+*/
+.main {
+    padding: 2em;
+    color: black;
+}
+
+.custom-wrapper {
+    background-color: #0a1c1e;
+    margin-bottom: 1em;
+    -webkit-font-smoothing: antialiased;
+    height: 2.1em;
+    overflow: hidden;
+    -webkit-transition: height 0.5s;
+    -moz-transition: height 0.5s;
+    -ms-transition: height 0.5s;
+    transition: height 0.5s;
+}
+
+.custom-wrapper.open {
+    height: 14em;
+}
+
+.custom-menu-3 {
+    text-align: right;
+}
+
+.custom-toggle {
+    width: 34px;
+    height: 34px;
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: none;
+}
+
+.custom-toggle .bar {
+    background-color: #777;
+    display: block;
+    width: 20px;
+    height: 2px;
+    border-radius: 100px;
+    position: absolute;
+    top: 18px;
+    right: 7px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.custom-toggle .bar:first-child {
+    -webkit-transform: translateY(-6px);
+    -moz-transform: translateY(-6px);
+    -ms-transform: translateY(-6px);
+    transform: translateY(-6px);
+}
+
+.custom-toggle.x .bar {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.custom-toggle.x .bar:first-child {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+@media (max-width: 47.999em) {
+
+    .custom-menu-3 {
+        text-align: left;
+    }
+
+    .custom-toggle {
+        display: block;
+    }
+
+}
+
+
+/*
+PROPIOS
+*/
+img.navbar{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border:none;
+	width: 60px;
+}
+p.navbar{
+	text-align: center;
+}
+
+a.hub-color{
+	color: #7ccfed;
+}
+
+img.logo{
+	border:none;
+	width: 150px;
+	z-index:900;
+}
+
+span.ubuntu-transform{
+	font-family: Ubuntu;
+}
+
+p.footer{
+	margin-bottom: 0px;
+}
+
+#footer {
+    background: #191818;
+}
+
+.pure-menu {
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 15px;
+	line-height: normal;
+	font-family: Aller;
+}
+
+
+.pure-menu-link {
+	color: #000;
+}
+
+.pure-menu-heading {
+	color: #000;
+}
+
+/*
+ * FICHAS 
+*/
+.link-ficha {
+	text-decoration: none;
+	color: #333;
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+}
+aside.fichah {
+    padding: 0.3em 0.4em;
+    border-style: solid;
+    border-width: 5px;
+    height: 190px;
+}
+
+aside.fichav {
+    padding: 0.3em 0.4em;
+    border-style: solid;
+    border-width: 5px;
+    height: 260px;
+}
+
+.ficha-b{
+	background: rgba(50, 106, 239, 0.3);
+	border-color: background: #326aef;
+}
+	.ficha-bo{
+		background: linear-gradient(to bottom right, rgba(50, 106, 239, 0.3) 0%, rgba(239, 145, 50, 0.3) 100%);
+		border-image: linear-gradient(to bottom right, #326aef 0%, #ef9132 100%);
+		border-image-slice: 1;
+	}
+	.ficha-br{
+		background: linear-gradient(to bottom right, rgba(50, 106, 239, 0.3) 0%, rgba(239, 54, 50, 0.3) 100%);
+		border-image: linear-gradient(to bottom right, #326aef 0%, #ef3632 100%);
+		border-image-slice: 1;
+	}
+.ficha-g {
+    background: rgba(45, 181, 94, 0.3);
+    border-color: #2db55e;
+}
+.ficha-r {
+    background: rgba(239, 54, 50, 0.3);
+    border-color: #ef3632;
+}
+	.ficha-rb{
+		background: linear-gradient(to bottom right, rgba(239, 54, 50, 0.3) 0%, rgba(50, 106, 239, 0.3) 100%);
+		border-image: linear-gradient(to bottom right, #ef3632 0%, #326aef 100%);
+		border-image-slice: 1;
+	}
+.ficha-p {
+    background: rgba(152, 45, 181, 0.3);
+    border-color: #982db5;
+}
+.ficha-o {
+    background: rgba(239, 145, 50, 0.3);
+    border-color: #ef9132;
+}
+
+p.title-fichah{
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: Aller;
+}
+p.title-fichav{
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: Aller;
+	text-align: center;
+}
+
+p.desc-fichah{
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+}
+p.desc-fichav{
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+	text-align: center;
+}
+
+img.logo-fichah{
+	float: left;
+	margin-right: 10px;
+}
+img.logo-fichav{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.counter-orange{
+	background: #ef9132;
+	height: 35px;
+}
+.counter-blue{
+	background: #326aef;
+	height: 35px;
+}
+.counter-green{
+	background: #2db55e;
+	height: 35px;
+}
+.counter-red{
+	background: #ef3632;
+	height: 35px;
+}
+.counter-purple{
+	background: #982db5;
+	height: 35px;
+}
+
+.counter-key{
+	padding: 0.5em;
+	text-align: left;
+	color: #fff;
+	display: block;	
+}
+
+.size-chart{
+	margin-top: 25px;
+	width: 100%;
+}
+
+aside.bolsa {
+    border-style: solid;
+    border-width: 5px;
+    height: 80px;
+}
+p.title-bolsa{
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 600;
+	font-size: 15px;
+	font-family: Aller;
+	text-align: center;
+	margin: auto;
+}
+
+p.desc-bolsa{
+	font-style: normal;
+	font-variant: normal;
+	font-size: 11px;
+	font-family: Aller;
+	margin: auto;
+}
