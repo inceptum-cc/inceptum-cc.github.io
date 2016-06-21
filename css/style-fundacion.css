@@ -266,12 +266,33 @@ img.logo-fichav{
 	background: #982db5;
 	height: 35px;
 }
+.counter-grey{
+	background: #8c8c8c;
+	height: 35px;
+}
 
 .counter-key{
 	padding: 0.5em;
 	text-align: left;
 	color: #fff;
 	display: block;	
+}
+.transp-key{
+	padding: 0.5em;
+	text-align: left;
+	color: #fff;
+	display: block;
+	float: left;
+	font-size: 11px
+}
+.transp-value{
+	padding: 0.5em;
+	text-align: right;
+	color: #ccc;
+	display: block;
+	float: right;
+	font-style: oblique;
+	font-size: 11px
 }
 
 .size-chart{
@@ -310,4 +331,12 @@ p.desc-bolsa{
 	font-size: 18px;
 	font-family: Aller;
 	
+}
+
+h3.align-center{
+	text-align: center;
+}
+
+p.align-center{
+	text-align: center;
 }
