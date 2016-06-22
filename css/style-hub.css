@@ -154,7 +154,7 @@ aside.fichah {
     padding: 0.3em 0.4em;
     border-style: solid;
     border-width: 5px;
-    height: 190px;
+    height: 210px;
 }
 
 aside.fichav {
@@ -206,6 +206,7 @@ p.title-fichah{
 	font-weight: 600;
 	font-size: 15px;
 	font-family: Aller;
+	margin-left: 10px;
 }
 p.title-fichav{
 	font-style: normal;
@@ -221,6 +222,7 @@ p.desc-fichah{
 	font-variant: normal;
 	font-size: 11px;
 	font-family: Aller;
+	margin-left: 10px;
 }
 p.desc-fichav{
 	font-style: normal;
@@ -231,8 +233,7 @@ p.desc-fichav{
 }
 
 img.logo-fichah{
-	float: left;
-	margin-right: 10px;
+	width: 100%;
 }
 img.logo-fichav{
     display: block;
@@ -276,7 +277,7 @@ img.logo-fichav{
 aside.bolsa {
     border-style: solid;
     border-width: 5px;
-    margin: 10px
+    margin: 10px 0px 10px 0px;
 }
 p.title-bolsa{
 	font-weight: 600;
@@ -284,7 +285,6 @@ p.title-bolsa{
 	font-family: Aller;
 	text-align: center;
 	margin: auto;
-	padding-left: 15px;
 }
 p.desc-bolsa{
 	font-size: 12px;
@@ -307,3 +307,21 @@ p.focus-bolsa{
 	text-align: center;
 	color: #191818;
 }
+
+div.sticker{
+	position: fixed;
+	top: 180px;
+	left: 1500px;
+	z-index: 1;
+	max-width: 250px
+}
+
+aside.donate-box{
+	background: #fff;
+	border-color: #ef9132;
+    border-style: solid;
+    border-width: 5px;
+    margin: 10px;
+    color: #191818;  
+}
+
