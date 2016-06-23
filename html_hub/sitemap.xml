@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>http://hub.inceptum.cc/</loc>
+  <lastmod>2016-06-22T16:45:54+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hub.inceptum.cc/usuarios.html</loc>
+  <lastmod>2016-06-22T16:17:38+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hub.inceptum.cc/bolsa.html</loc>
+  <lastmod>2016-06-22T16:17:38+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hub.inceptum.cc/plataformas.html</loc>
+  <lastmod>2016-06-22T16:17:38+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hub.inceptum.cc/productos.html</loc>
+  <lastmod>2016-06-22T16:17:38+00:00</lastmod>
+</url>
+<url>
+  <loc>http://hub.inceptum.cc/hub.html</loc>
+  <lastmod>2016-06-22T16:45:54+00:00</lastmod>
+</url>
+</urlset>
