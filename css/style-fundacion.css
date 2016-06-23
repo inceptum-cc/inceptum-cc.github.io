@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'Aller, Arial, sans-serif';
+    src: url('http://inceptum.cc/fonts/Aller, Arial, sans-serif-webfont.woff2') format('woff2'),
+         url('http://inceptum.cc/fonts/Aller, Arial, sans-serif-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /*
 CUSTOM MENU
 */
@@ -133,7 +141,7 @@ p.footer{
 	font-weight: 600;
 	font-size: 15px;
 	line-height: normal;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 }
 
 
@@ -154,7 +162,7 @@ p.footer{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 }
 aside.fichah {
     padding: 0.3em 0.4em;
@@ -211,14 +219,14 @@ p.title-fichah{
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 }
 p.title-fichav{
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 	text-align: center;
 }
 
@@ -226,13 +234,13 @@ p.desc-fichah{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 }
 p.desc-fichav{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 	text-align: center;
 }
 
@@ -310,7 +318,7 @@ p.title-bolsa{
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 	text-align: center;
 	margin: auto;
 }
@@ -319,7 +327,7 @@ p.desc-bolsa{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 	margin: auto;
 }
 .link-net {
@@ -329,7 +337,7 @@ p.desc-bolsa{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 18px;
-	font-family: Aller;
+	font-family: Aller, Arial, sans-serif;
 	
 }
 

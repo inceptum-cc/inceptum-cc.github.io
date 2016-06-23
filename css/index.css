@@ -30,7 +30,7 @@ img.logo {
 }
 
 p.foundation {
-	font-family: "Aller", sans-serif;
+	font-family: "Aller", Arial, sans-serif;
 	font-weight: bold;
 	font-size: large;
 	color: #7ccfed;
@@ -39,7 +39,7 @@ p.foundation {
 }
 
 p.hub {
-        font-family: "Aller", sans-serif;
+        font-family: "Aller", Arial, sans-serif;
         font-weight: bold;
         font-size: large;
         color: #000;
