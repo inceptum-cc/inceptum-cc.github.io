@@ -67,12 +67,26 @@ The content `<div>` is where all your content goes.
     }
 
 .content-subhead {
-    margin: 50px 0 20px 0;
+    margin: 50px 0 30px 0;
     font-weight: 600;
     color: #888;
 }
 
+.servicio-grid {
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
 
+p.servicio-grid {
+	margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding: 5px;
+}
+
+div.servicio-grid{
+	margin: 10px 0px 20px 0px;
+	padding: 0px;
+}
 
 /*
 The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
