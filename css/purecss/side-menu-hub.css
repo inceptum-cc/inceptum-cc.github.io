@@ -1,6 +1,6 @@
 body {
     color: #777;
-    font-family: 'Aller', Arial, sans-serif;
+    font-family: 'Aller', Verdana, sans-serif;
 }
 
 .pure-img-responsive {
@@ -69,22 +69,6 @@ The content `<div>` is where all your content goes.
     margin: 25px 0 10px 0;
     font-weight: 600;
     color: #888;
-}
-
-.servicio-grid {
-    margin: 10px 0px 0px 0px;
-    text-align: center;
-}
-
-p.servicio-grid {
-	margin: 0px 0px 0px 0px;
-    text-align: center;
-    padding: 5px;
-}
-
-div.servicio-grid{
-	margin: 10px 0px 38px 0px;
-	padding: 0px;
 }
 
 /*

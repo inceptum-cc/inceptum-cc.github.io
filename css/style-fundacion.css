@@ -141,7 +141,7 @@ p.footer{
 	font-weight: 600;
 	font-size: 15px;
 	line-height: normal;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 }
 
 
@@ -162,7 +162,7 @@ p.footer{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 }
 aside.fichah {
     padding: 0.3em 0.4em;
@@ -219,14 +219,14 @@ p.title-fichah{
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 }
 p.title-fichav{
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 }
 
@@ -234,13 +234,13 @@ p.desc-fichah{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 }
 p.desc-fichav{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 }
 
@@ -291,7 +291,7 @@ img.logo-fichav{
 	color: #fff;
 	display: block;
 	float: left;
-	font-size: 11px
+	font-size: 11px;
 }
 .transp-value{
 	padding: 0.5em;
@@ -300,7 +300,7 @@ img.logo-fichav{
 	display: block;
 	float: right;
 	font-style: oblique;
-	font-size: 11px
+	font-size: 11px;
 }
 
 .size-chart{
@@ -318,7 +318,7 @@ p.title-bolsa{
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 	margin: auto;
 }
@@ -327,7 +327,7 @@ p.desc-bolsa{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	margin: auto;
 }
 .link-net {
@@ -337,7 +337,7 @@ p.desc-bolsa{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 18px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	
 }
 
@@ -364,4 +364,20 @@ aside.donate-box{
     border-width: 5px;
     margin: 10px;
     color: #191818;  
+}
+
+.colaborador-grid{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+p.colaborador-grid{
+	margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding: 5px;
+}
+
+div.colaborador-grid{
+	margin: 10px 0px 38px 0px;
+	padding: 0px;
 }

@@ -135,7 +135,7 @@ p.footer{
 	font-weight: 600;
 	font-size: 15px;
 	line-height: normal;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 }
 
 
@@ -156,7 +156,7 @@ p.footer{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 }
 aside.fichah {
     padding: 0.3em 0.4em;
@@ -213,7 +213,7 @@ p.title-fichah{
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	margin-left: 10px;
 }
 p.title-fichav{
@@ -221,7 +221,7 @@ p.title-fichav{
 	font-variant: normal;
 	font-weight: 600;
 	font-size: 15px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 }
 
@@ -229,14 +229,14 @@ p.desc-fichah{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	margin-left: 10px;
 }
 p.desc-fichav{
 	font-style: normal;
 	font-variant: normal;
 	font-size: 11px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 }
 
@@ -290,20 +290,20 @@ aside.bolsa {
 p.title-bolsa{
 	font-weight: 600;
 	font-size: 20px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 	margin: auto;
 }
 p.desc-bolsa{
 	font-size: 12px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	padding-left: 10px;
 	color: #191818;
 }
 p.field-bolsa{
 	font-weight: 400;
 	font-size: 12px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 	color: #191818;
 
@@ -311,7 +311,7 @@ p.field-bolsa{
 p.focus-bolsa{
 	font-weight: 600;
 	font-size: 15px;
-	font-family: 'Aller', Arial, sans-serif;
+	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 	color: #191818;
 }
@@ -331,5 +331,21 @@ aside.donate-box{
     border-width: 5px;
     margin: 10px;
     color: #191818;  
+}
+
+.servicio-grid{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+p.servicio-grid{
+	margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding: 5px;
+}
+
+div.servicio-grid{
+	margin: 10px 0px 38px 0px;
+	padding: 0px;
 }
 
