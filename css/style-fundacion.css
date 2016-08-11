@@ -381,3 +381,9 @@ div.colaborador-grid{
 	margin: 10px 0px 38px 0px;
 	padding: 0px;
 }
+
+.center{
+	margin: 0px 0px 0px 0px;
+    text-align: center;
+    padding: 5px;
+}
