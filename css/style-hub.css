@@ -105,6 +105,11 @@ img.navbar{
 }
 p.navbar{
 	text-align: center;
+	font-size: 14px;
+}
+
+.center{
+	text-align: center;
 }
 
 a.hub-color{
