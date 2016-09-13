@@ -116,6 +116,12 @@ a.hub-color{
 	color: #000;
 }
 
+a.focus-link{
+	text-decoration: none;
+	color: #777;
+	font-weight: bold;
+}
+
 img.logo{
 	border:none;
 	width: 150px;
@@ -294,7 +300,7 @@ aside.bolsa {
 }
 p.title-bolsa{
 	font-weight: 600;
-	font-size: 20px;
+	font-size: 18px;
 	font-family: 'Aller', Verdana, sans-serif;
 	text-align: center;
 	margin: auto;
