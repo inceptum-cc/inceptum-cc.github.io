@@ -169,7 +169,7 @@ aside.fichah {
     padding: 0.3em 0.4em;
     border-style: solid;
     border-width: 5px;
-    height: 190px;
+    height: 210px;
 }
 
 aside.fichav {
@@ -221,6 +221,7 @@ p.title-fichah{
 	font-weight: 600;
 	font-size: 15px;
 	font-family: 'Aller', Verdana, sans-serif;
+	margin-left: 10px;
 }
 p.title-fichav{
 	font-style: normal;
@@ -236,6 +237,7 @@ p.desc-fichah{
 	font-variant: normal;
 	font-size: 11px;
 	font-family: 'Aller', Verdana, sans-serif;
+	margin-left: 10px;
 }
 p.desc-fichav{
 	font-style: normal;
@@ -249,6 +251,10 @@ img.logo-fichah{
 	float: left;
 	margin-right: 10px;
 }
+img.logo-fichah2{
+	width: 100%;
+}
+
 img.logo-fichav{
     display: block;
     margin-left: auto;
