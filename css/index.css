@@ -5,10 +5,9 @@ html,body {
 }
 
 div.foundation {
-	position: relative;
 	background-color: #0a1c1e;
 	float: left;
-	width: 50%;
+	width: 100%;
 	height: 100%;
 }
 div.hub {
@@ -20,31 +19,29 @@ div.hub {
 }
 
 img.logo {
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	bottom: 0px;
-	margin: auto;
-	/*padding-bottom: 100px;*/
+	display: block;
+    margin: auto;
+    width: 35%;
 }
 
 p.foundation {
 	font-family: 'Aller', Arial, sans-serif;
 	font-weight: bold;
-	font-size: large;
+	font-size: 100px;
 	color: #7ccfed;
 	text-align: center;
 	line-height: 80%;
 }
 
 p.hub {
-        font-family: 'Aller', Arial, sans-serif;
-        font-weight: bold;
-        font-size: large;
-        color: #000;
-        text-align: center;
-        line-height: 80%;
-
+	font-family: 'Aller', Arial, sans-serif;
+	font-weight: bold;
+	font-size: large;
+	color: #000;
+	text-align: center;
+	line-height: 80%;
 }
 
+table {
+	margin-top: 100px;
+}

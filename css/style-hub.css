@@ -297,6 +297,7 @@ aside.bolsa {
     border-style: solid;
     border-width: 5px;
     margin: 10px 0px 10px 0px;
+    width: 100%;
 }
 p.title-bolsa{
 	font-weight: 600;
