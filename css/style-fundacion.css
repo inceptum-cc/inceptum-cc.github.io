@@ -298,7 +298,7 @@ img.logo-fichav{
 	color: #fff;
 	display: block;
 	float: left;
-	font-size: 11px;
+	font-size: 12px;
 }
 .transp-value{
 	padding: 0.5em;
@@ -309,6 +309,15 @@ img.logo-fichav{
 	font-style: oblique;
 	font-size: 11px;
 }
+.transp-value2{
+	padding: 0.5em;
+	color: #ccc;
+	display: block;
+	float: right;
+	font-style: oblique;
+	font-size: 11px;
+}
+
 
 .size-chart{
 	margin-top: 25px;
