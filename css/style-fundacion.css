@@ -263,27 +263,27 @@ img.logo-fichav{
 
 .counter-orange{
 	background: #ef9132;
-	height: 35px;
+
 }
 .counter-blue{
 	background: #326aef;
-	height: 35px;
+
 }
 .counter-green{
 	background: #2db55e;
-	height: 35px;
+
 }
 .counter-red{
 	background: #ef3632;
-	height: 35px;
+
 }
 .counter-purple{
 	background: #982db5;
-	height: 35px;
+
 }
 .counter-grey{
 	background: #8c8c8c;
-	height: 35px;
+
 }
 
 .counter-key{
@@ -292,32 +292,24 @@ img.logo-fichav{
 	color: #fff;
 	display: block;	
 }
-.transp-key{
-	padding: 0.5em;
+
+.counter-transp-label{
 	text-align: left;
-	color: #fff;
-	display: block;
-	float: left;
-	font-size: 12px;
-}
-.transp-value{
-	padding: 0.5em;
-	text-align: right;
-	color: #ccc;
-	display: block;
-	float: right;
-	font-style: oblique;
-	font-size: 11px;
-}
-.transp-value2{
-	padding: 0.5em;
-	color: #ccc;
-	display: block;
-	float: right;
-	font-style: oblique;
-	font-size: 11px;
 }
 
+.counter-transp-key{
+	padding-left: 5px;
+	color: #fff;
+	display: block;	
+	font-size: 14px;
+}
+
+.counter-transp-value{
+	padding-left: 5px;
+	color: #c8c8c8;
+	display: block;	
+	font-size: 11px;
+}
 
 .size-chart{
 	margin-top: 25px;

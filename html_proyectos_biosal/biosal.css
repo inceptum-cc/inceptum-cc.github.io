@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Aller';
+    src: url('../fonts/aller-webfont.woff2') format('woff2'),
+         url('../fonts/aller-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * CUSTOM COLOURS
+ * Grey:        #676864
+ * Dark Green:  #6d8944
+ * Light Green: #a6bc74
+*/
+.main {
+    color: #676864;
+}
+
+#menu-top {
+	background: #a6bc74;
+}
+
+.custom-wrapper {
+    background-color: #6d8944;
+}
+
+.content-subhead {
+	color: #6d8944;
+}
+
+.header {
+	color: #676864;
+}
+
+aside.donate-box {
+	border-color: #a6bc74;
+}
+
+.ribbon {
+	color: #a6bc74;
+}
