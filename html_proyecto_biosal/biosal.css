@@ -39,3 +39,9 @@ aside.donate-box {
 .ribbon {
 	color: #a6bc74;
 }
+
+a.link{
+	text-decoration: none;
+	color: #777;
+	font-weight: bold;
+}

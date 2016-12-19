@@ -111,6 +111,7 @@ p.navbar{
 a.hub-color{
 	color: #FFF;
 }
+
 .pure-menu-link:hover{
 	background-color: #7fd0ed;
 }
@@ -181,7 +182,7 @@ aside.fichav {
 
 .ficha-b{
 	background: rgba(50, 106, 239, 0.3);
-	border-color: background: #326aef;
+	border-color: #326aef;
 }
 	.ficha-bo{
 		background: linear-gradient(to bottom right, rgba(50, 106, 239, 0.3) 0%, rgba(239, 145, 50, 0.3) 100%);
