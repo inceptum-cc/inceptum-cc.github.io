@@ -16,12 +16,18 @@
     color: #f14a28;
 }
 
-#menu-top {
-	background: #f14a28;
+a.hub-color {
+	color: #fbfbfb;
 }
 
 .custom-wrapper {
-    background-color: #6d8944;
+	/* Menú Superior */
+    background-color: #f14a28;
+}
+
+#menu-top {
+	/* Sombra Inferior del Menú Superior */
+	background: #ff1800;
 }
 
 .content-subhead {
