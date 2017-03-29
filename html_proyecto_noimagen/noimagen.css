@@ -5,7 +5,7 @@
     font-weight: normal;
     font-style: normal;
 }
-
+d5002e
 /*
  * CUSTOM COLOURS
  * Grey:        #676864
@@ -13,7 +13,7 @@
  * Light Green: #a6bc74
 */
 .main {
-    color: #f14a28;
+    color: #d5002e
 }
 
 a.hub-color {
@@ -22,16 +22,16 @@ a.hub-color {
 
 .custom-wrapper {
 	/* Menú Superior */
-    background-color: #f14a28;
+    background-color: #d5002e;
 }
 
 #menu-top {
 	/* Sombra Inferior del Menú Superior */
-	background: #ff1800;
+	background: #191818;
 }
 
 .content-subhead {
-	color: #f14a28;
+	color: #d5002e;
 }
 
 .header {
@@ -39,15 +39,20 @@ a.hub-color {
 }
 
 aside.donate-box {
-	border-color: #f14a28;
+	border-color: #d5002e;
 }
 
 .ribbon {
-	color: #f14a28;
+	color: #d5002e;
 }
 
 a.link{
 	text-decoration: none;
 	color: #777;
 	font-weight: bold;
+}
+
+p.servicio-grid{
+	margin: 0px 10px 0px 10px;
+	text-align:left;
 }
