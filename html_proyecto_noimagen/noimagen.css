@@ -55,3 +55,7 @@ p.servicio-grid{
 	margin: 0px 10px 0px 10px;
 	text-align:left;
 }
+
+.header h1 {
+	margin: 0px 0px 0px 0px;
+}
