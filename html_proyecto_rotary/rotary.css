@@ -8,49 +8,50 @@
 
 /*
  * CUSTOM COLOURS
- * Navy:   #012469
- * Dorado: #FCBE12
+ * Navy:   #17458F
+ * Blue:   #005daa
+ * Dorado: #f7a81b
  */
 
 .main {
-    color: #012469;
+    color: #17458F;
 }
 
 a.hub-color {
   /* Letras Menu Superior */
-	color: #FCBE12;
+	color: #f7a81b;
 }
 
 .custom-wrapper {
 	/* Menú Superior */
-    background-color: #012469;
+    background-color: #17458F;
 }
 
 #menu-top {
 	/* Sombra Inferior del Menú Superior */
-	background: #FCBE12;
+	background: #005daa;
 }
 
 .content-subhead {
   /* Titulos contenido */
-	color: #012469;
+	color: #17458F;
 }
 
 .header {
-	color: #012469;
+	color: #17458F;
 }
 
 aside.donate-box {
-	border-color: #012469;
+	border-color: #17458F;
 }
 
 .ribbon {
   /* Letras footer */
-	color: #FCBE12;
+	color: #f7a81b;
 }
 
 a.link{
 	text-decoration: none;
-	color: #777;
-	font-weight: bold;
+	color: #f7a81b;
+	/* font-weight: bold; */
 }
