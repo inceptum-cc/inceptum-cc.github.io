@@ -23,13 +23,15 @@ a.hub-color {
 }
 
 .custom-wrapper {
-	/* Menú Superior */
-    background-color: #17458F;
+	/* Menú Superior
+    background-color: #17458F; */
+    background-color: #005daa;
 }
 
 #menu-top {
-	/* Sombra Inferior del Menú Superior */
-	background: #005daa;
+	/* Sombra Inferior del Menú Superior
+	background: #005daa;*/
+  background: #17458F;
 }
 
 .content-subhead {
