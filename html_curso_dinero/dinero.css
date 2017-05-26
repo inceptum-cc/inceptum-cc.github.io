@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Aller';
+    src: url('../fonts/aller-webfont.woff2') format('woff2'),
+         url('../fonts/aller-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+ * CUSTOM COLOURS
+ * Blue:   #6697a8
+ * Yellow: #f8ab1e
+ * Orange: #e94e1b
+ */
+
+.main {
+    color: #6697a8;
+}
+
+a.hub-color {
+  /* Letras Menu Superior */
+	color: #fff;
+}
+
+a.pure-menu-selected:hover {
+  /* Letras Menu Superior ON HOVER */
+  color: #000;
+  background-color: #6697a8;
+}
+
+.custom-wrapper {
+	/* Menú Superior */
+    background-color: #6697a8;
+}
+
+#menu-top {
+	/* Sombra Inferior del Menú Superior */
+  background: #f8ab1e;
+}
+
+.content-subhead {
+  /* Titulos contenido */
+	color: #6697a8;
+}
+
+.header {
+	color: #6697a8;
+}
+
+aside.donate-box {
+	border-color: #e94e1b;
+}
+
+.ribbon {
+  /* Letras footer */
+	color: #6697a8;
+}
+
+a.link{
+	text-decoration: none;
+	color: #e94e1b;
+	/* font-weight: bold; */
+}
