@@ -33,6 +33,12 @@ a.hub-color {
 	color: #d5002e;
 }
 
+.promo {
+	color: #d5002e;
+  margin: 25px 0px 40px 0px;
+  text-decoration: overline underline;
+}
+
 .header {
 	color: #676864;
 }
