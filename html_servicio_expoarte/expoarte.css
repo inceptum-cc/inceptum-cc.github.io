@@ -11,32 +11,41 @@
 }
 
 a.hub-color {
+  /* Letras Menu Superior */
 	color: #FFFFFF;
+}
+
+a.pure-menu-selected:hover {
+  /* Letras Menu Superior ON HOVER */
+  color: #25ae6b;
+  background-color: #434343;
 }
 
 .custom-wrapper {
 	/* Menú Superior */
-    background-color: #414141;
+    background-color: #434343;
 }
 
 #menu-top {
 	/* Sombra Inferior del Menú Superior */
-	background: #1C1C1C;
+	background: #707070;
 }
 
 .content-subhead {
-	color: #414141;
+  /* Titulos contenido */
+	color: #434343;
 }
 
 .header {
-	color: #414141;
+	color: #434343;
 }
 
 aside.donate-box {
-	border-color: #414141;
+	border-color: #434343;
 }
 
 .ribbon {
+  /* Letras footer */
 	color: #FFFFFF;
 }
 
