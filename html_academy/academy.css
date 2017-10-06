@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Aller';
+    src: url('../fonts/aller-webfont.woff2') format('woff2'),
+         url('../fonts/aller-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.main {
+    color: #f14a28;
+}
+
+a.hub-color {
+  /* Letras Menu Superior */
+	color: #FFFFFF;
+}
+
+a.pure-menu-selected:hover {
+  /* Letras Menu Superior ON HOVER */
+  color: #16789c;
+  background-color: #0a1c1e;
+}
+
+.custom-wrapper {
+	/* Menú Superior */
+    background-color: #0a1c1e;
+}
+
+#menu-top {
+	/* Sombra Inferior del Menú Superior */
+	background: #16789c;
+}
+
+.content-subhead {
+  /* Titulos contenido */
+	color: #16789c;
+}
+
+.header {
+	color: #16789c;
+}
+
+aside.donate-box {
+	border-color: #16789c;
+}
+
+.ribbon {
+  /* Letras footer */
+	color: #FFFFFF;
+}
+
+a.link{
+	text-decoration: none;
+	color: #777;
+	font-weight: bold;
+}
